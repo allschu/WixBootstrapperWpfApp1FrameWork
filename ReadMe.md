@@ -3,6 +3,7 @@ Windows WPF Application .Net Framework 4.8.1 Bootapper using WixSharp and Wix To
 Pre-requisites:
 1. Visual Studio 2022
 1. .Net Framework 4.8.1
+1. WixSharp 2.3.2
 1. Wix toolset 4.0.3
 
 Install Wix toolset 4.0.3 from https://wixtoolset.org/releases/
