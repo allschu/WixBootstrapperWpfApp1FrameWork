@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WixBootstrapperWpfApp1FrameWork", "WixBootstrapperWpfApp1FrameWork\WixBootstrapperWpfApp1FrameWork.csproj", "{D5585942-0119-497E-B519-6A6D1C944576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5585942-0119-497E-B519-6A6D1C944576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5585942-0119-497E-B519-6A6D1C944576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5585942-0119-497E-B519-6A6D1C944576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5585942-0119-497E-B519-6A6D1C944576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2024641D-EC41-494B-A2BE-A07A5F17E3D6}
+	EndGlobalSection
+EndGlobal
