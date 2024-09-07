@@ -1,4 +1,4 @@
-Windows WPF Application .Net Framework 4.8.1 Bootapper using Wix Toolset 4.0.3
+Windows WPF Application .Net Framework 4.8.1 Bootapper using WixSharp and Wix Toolset 4.0.3
 
 Pre-requisites:
 1. Visual Studio 2022
